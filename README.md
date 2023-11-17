@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Kias Mohamed Islam (@floidenergy) <br> 🌱 I’m currently learning Next.js<br>🔭 I’m currently working as FullStack web-developer freelancer
+👋 Hi, I’m Kias Mohamed Islam (@floidenergy) <br> 🌱 I’m currently learning Nest.js<br>🔭 I’m currently working as FullStack web-developer freelancer
 
 
 ## 🌐 Socials:
