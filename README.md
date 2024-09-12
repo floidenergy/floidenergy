@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Kias Mohamed Islam (@floidenergy) <br> 🌱 I’m currently learning flutter & Nest.js<br>🔭 I’m currently working as FullStack web-developer at Not-Easy Algeria
+👋 Hi, I’m Kias Mohamed Islam (@floidenergy) <br> 🌱 I’m currently learning Nest.js<br>🔭 I’m currently working as Team leader at Not-Easy Algeria
 
 
 ## 🌐 Socials:
