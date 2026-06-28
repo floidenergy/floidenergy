@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Kias Mohamed Islam (@floidenergy) <br> 🌱 I’m currently learning Nest.js<br>🔭 I’m currently in military service 🪖🇩🇿
+👋 Hi, I’m Kias Mohamed Islam (@floidenergy) <br> 🌱 I’m currently learning Nest.js<br>
 
 
 ## 🌐 Socials:
